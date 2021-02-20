@@ -4,7 +4,6 @@ import ru.calculator.task.operators.Divide;
 import ru.calculator.task.operators.Minus;
 import ru.calculator.task.operators.Multiply;
 import ru.calculator.task.operators.Plus;
-
 import java.util.regex.Pattern;
 
 public abstract class OperatorToken {
