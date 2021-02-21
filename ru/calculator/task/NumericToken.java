@@ -53,7 +53,6 @@ public abstract class NumericToken {
         rome.put("VII", "7");
         rome.put("VIII", "8");
         rome.put("IX", "9");
-
         rome.put("X", "10");
         rome.put("XI", "11");
         rome.put("XII", "12");
@@ -86,7 +85,6 @@ public abstract class NumericToken {
         arab.put("7", "VII");
         arab.put("8", "VIII");
         arab.put("9", "IX");
-
         arab.put("10", "X");
         arab.put("11", "XI");
         arab.put("12", "XII");
