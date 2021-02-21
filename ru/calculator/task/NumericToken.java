@@ -64,7 +64,9 @@ public abstract class NumericToken {
         rome.put("XVIII", "18");
         rome.put("XIX", "19");
         rome.put("XX", "20");
-
+        
+// TODO: 21.02.2021 //Добавить все значения! А лучше переделать в более универсальное.
+        
         rome.put("L", "50");
         rome.put("C", "100");
         rome.put("D", "500");
@@ -96,7 +98,9 @@ public abstract class NumericToken {
         arab.put("18", "XVIII");
         arab.put("19", "XIX");
         arab.put("20", "XX");
-
+        
+// TODO: 21.02.2021 //Добавить все значения! А лучше переделать в более универсальное.
+        
         arab.put("50", "L");
         arab.put("100", "C");
         arab.put("500", "D");
